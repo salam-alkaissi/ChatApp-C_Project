@@ -1,0 +1,5 @@
+/homes/s24alkai/Téléchargements/C_Project/msc-it-chat-main/build/CMakeFiles/client.dir
+/homes/s24alkai/Téléchargements/C_Project/msc-it-chat-main/build/CMakeFiles/server.dir
+/homes/s24alkai/Téléchargements/C_Project/msc-it-chat-main/build/CMakeFiles/chatdoc.dir
+/homes/s24alkai/Téléchargements/C_Project/msc-it-chat-main/build/CMakeFiles/edit_cache.dir
+/homes/s24alkai/Téléchargements/C_Project/msc-it-chat-main/build/CMakeFiles/rebuild_cache.dir
